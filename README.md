@@ -6,7 +6,7 @@ This project analyzes a dataset related to fuel economy, focusing on CO2 emissio
 
 ## Project Structure
 
-- `fuel_econ.csv`: The dataset containing fuel economy data.
+- `fuel_econ - fuel_econ.csv`: The dataset containing fuel economy data.
 - `analysis.py`: Python script that performs data analysis and visualization.
 
 ## Requirements
